@@ -1,0 +1,3 @@
+C:/Users/kasia/OneDrive/Pulpit/Semestr 3/Podstawy grafiki komputerowej 1/Laboratorium/visualSFML (1)/visualSFML/GraficznyEngine/cmake-build-debug/CMakeFiles/GraficznyEngine.dir
+C:/Users/kasia/OneDrive/Pulpit/Semestr 3/Podstawy grafiki komputerowej 1/Laboratorium/visualSFML (1)/visualSFML/GraficznyEngine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kasia/OneDrive/Pulpit/Semestr 3/Podstawy grafiki komputerowej 1/Laboratorium/visualSFML (1)/visualSFML/GraficznyEngine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
